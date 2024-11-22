@@ -1,8 +1,8 @@
 {
   "name": "UI Booster",
-  "description": "Optimise la création de designs dans Penpot avec des fonctionnalités d'automatisation et de gestion intelligente.",
+  "description": "Optimise la création de designs dans Penpot avec alignement automatique et suggestions intelligentes.",
   "version": "1.0.0",
-  "author": "SALIFOU Mouhamadou",
+  "author": "SALIFOU SAYE Mouhamadou",
   "homepage": "https://github.com/SALI-546/UI-Booster",
   "entry": "index.js",
   "icons": {

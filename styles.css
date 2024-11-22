@@ -1,5 +1,11 @@
 /* Styles pour UI Booster */
-.booster-highlight {
-  border: 2px dashed #00f;
-  padding: 10px;
+.design-element {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+button:hover {
+    background-color: #0056b3;
 }
